@@ -1,0 +1,136 @@
+/*rest da configuração de fábrica*/
+html {
+    margin: 0;
+    padding: 0;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1rem;
+     
+}
+
+body{
+    background: rgb(224, 157, 209);
+    color:crimson
+   
+
+}
+
+/* seletor por id */
+#secao1 {
+    border: 2em outset rgb(29, 155, 29);
+    background-color: rgb(111, 249, 139);
+    font-size: 2em;
+    font-weights:800;
+    color:rgb(255, 5, 105)
+}
+/* seletor por tipo / tag */
+main {
+    max-width: 90%;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 1em;
+}
+
+/* seletor por classe */
+.secao2{
+    border: 2em outset rgb(255, 149, 0) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(252, 249, 72);
+    color:rgb(255, 165, 46)
+
+}
+/* seletor por classe */
+.secao3{
+    border: 2em outset rgb(15, 125, 88);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(93, 234, 247);
+    color:rgb(248, 59, 59)
+
+}
+
+
+/* seletor por classe */
+.secao4{
+    display: flex;
+    justify-content: space-around;
+    align-items: centerc;
+    border: 2em outset rgb(190, 6, 49);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(240, 82, 82);
+    color:rgb(247, 209, 249)
+
+}
+/* seletor por classe */
+.secao5{
+    border: 2em outset rgb(6, 21, 190);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(99, 20, 183);
+    color:rgb(38, 220, 233)
+
+}
+/* seletor por classe */
+.secao6{
+    border: 2em outset rgb(36, 105, 11);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(52, 204, 21);
+    color:rgb(58, 128, 5)
+
+}
+/* seletor por classe */
+.secao7{
+    border: 2em outset rgb(226, 120, 120);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(151, 4, 73);
+    color:rgb(128, 5, 5)
+
+}
+/* seletor por classe */
+.secao8{
+    border: 2em outset rgb(119, 24, 214);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(122, 62, 220);
+    color:rgb(114, 5, 128)
+
+} 
+/* seletor por classe */
+.secao9{
+    border: 2em outset rgb(75, 73, 77);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(242, 240, 245);
+    color:rgb(226, 226, 226)
+
+}
+/* seletor por classe */
+.secao10{
+    border: 2em outset rgb(84, 21, 21);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(145, 55, 55);
+    color:rgb(213, 98, 98)
+
+}
+/* seletor por classe */
+.secao11{
+    border: 2em outset rgb(159, 6, 6);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(224, 203, 95);
+    color:rgb(213, 98, 98)
+
+} 
+/* seletor por classe */
+.secao12{
+    border: 2em outset rgb(159, 6, 134);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(224, 203, 95);
+    color:rgb(165, 99, 36)
+
+} 
